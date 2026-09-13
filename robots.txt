@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# An independent information page about the ether.fi Cash card.
+# Not ether.fi's official website; not affiliated with or endorsed by ether.fi.
+# Affiliate and risk disclosures are on the page itself, in the footer.
+
+Sitemap: https://web3cash.github.io/sitemap.xml
